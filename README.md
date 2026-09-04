@@ -13,5 +13,5 @@ brew tap meehl/homebrew-rusty-path-of-building
 ## Now, you should be able to install it
 
 ```shell
-brew install rust-path-of-building
+brew install rusty-path-of-building
 ```
