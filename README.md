@@ -1,6 +1,6 @@
 # Rusty Path of Building Tap
 
-A third-party Homebrew tap for [rusty-path-of-building](https://github.com/meehl/homebrew-rusty-path-of-building).
+A third-party Homebrew tap for [rusty-path-of-building](https://github.com/meehl/rusty-path-of-building).
 
 # Installation instructions
 
